@@ -17,7 +17,7 @@ One important note. This plugin will always work in comments, but it will not wo
 
 = Support =
 
-If you post your support questions as comments below, I probably won't see them. If the notes in the plugin file don't answer your questions, then post your support questions on a post in the[KB Backtick Comments category](http://adambrown.info/b/widgets/category/kb-backtick-comments/) at my site.
+If you post your support questions as comments below, I probably won't see them. If the notes in the plugin file don't answer your questions, then post your support questions on a post in the [KB Backtick Comments category](http://adambrown.info/b/widgets/category/kb-backtick-comments/) at my site.
 
 == Installation ==
 
@@ -42,4 +42,4 @@ None yet. This thing is straightforward.
 
 = I have a question that isn't addressed here. =
 
-If you post your support questions as comments below, I probably won't see them. If the notes in the plugin file don't answer your questions, then post your support questions on a post in the[KB Backtick Comments category](http://adambrown.info/b/widgets/category/kb-backtick-comments/) at my site.
+If you post your support questions as comments below, I probably won't see them. If the notes in the plugin file don't answer your questions, then post your support questions on a post in the [KB Backtick Comments category](http://adambrown.info/b/widgets/category/kb-backtick-comments/) at my site.
