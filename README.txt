@@ -3,6 +3,7 @@ Contributors: adamrbrown
 Donate link: http://adambrown.info/b/widgets/donate/
 Tags: code, comment, comments, backtick, syntax, php, html, xhtml, javascript, paste, paste code
 Requires at least: 2.0
+Tested up to: 2.5
 Stable tag: trunk
 
 Allows you to paste code into comments or posts by surrounding it in `backticks`, just like in the Wordpress.org support forums.
